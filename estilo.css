@@ -4,14 +4,14 @@ header#cabecalho h1 {
 	font-size: 25pt;
 }
 body#corpo-principal {
-	background-image: url("../-imagens/bolo.jpg");
+	background-image: url("bolo.jpg");
 	background-repeat: no-repeat;
 	background-position: center -50px;
 	background-color: rgb(246, 246, 246);
 }
 
 body#corpo {
-	background-image: url("../-imagens/lofi2.jpg");
+	background-image: url("lofi2.jpg");
 	background-repeat: repeat;
 	font: normal 13pt lucida;
 	color: black;
