@@ -1,0 +1,81 @@
+header#cabecalho h1 {
+	text-align: center;
+	color: black;
+	font-size: 25pt;
+}
+body#corpo-principal {
+	background-image: url("../-imagens/bolo.jpg");
+	background-repeat: no-repeat;
+	background-position: center -50px;
+	background-color: rgb(246, 246, 246);
+}
+
+body#corpo {
+	background-image: url("../-imagens/lofi2.jpg");
+	background-repeat: repeat;
+	font: normal 13pt lucida;
+	color: black;
+}
+img#gif {
+	display: block;
+	margin: auto;
+	width: 600px;
+	height: 400px;
+}
+img#coracao {
+	position: right;
+	width: 50px;
+	height: 50px;
+	margin-left: 1240px;
+	margin-top: 110px;
+}
+
+div#interface {
+	border-radius: 10px;
+	width: 1239px;
+	background-color:rgba(248, 92, 251, 0.6);
+	margin: 0px auto 10px auto;
+	text-align: left;
+}
+
+p {
+	margin-left: 7px;
+}
+
+div#img-duda {
+	border: 5px solid rgba(77, 22, 124, 0.6);
+	box-shadow: 1px 1px 1px 1px black;
+	width: 640px;
+	height: 640px;
+}
+
+iframe#video {
+	border: 5px solid rgba(77, 22, 124, 0.6);
+	box-shadow: 1px 1px 1px 1px black;
+}
+img#foto {
+	border: 5px solid rgba(77, 22, 124, 0.6);
+	box-shadow: 1px 1px 1px 1px black;
+}
+
+img#coc {
+	border: 5px solid rgba(77, 22, 124, 0.6);
+	box-shadow: 1px 1px 1px 1px black;
+}
+img#marie {
+	border: 5px solid rgba(77, 22, 124, 0.6);
+	box-shadow: 1px 1px 1px 1px black;	
+}
+img#perfil {
+	border: 5px solid rgba(77, 22, 124, 0.6);
+	box-shadow: 1px 1px 1px 1px black;
+}
+
+iframe#carta {
+	display: block;
+	position: absolute;
+	margin-top: -540px;
+	margin-left: 1000px;
+	box-shadow: 1px 1px 1px 1px pink;
+	border-radius: 30px;
+}
