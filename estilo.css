@@ -48,34 +48,34 @@ div#img-duda {
 	box-shadow: 1px 1px 1px 1px black;
 	width: 640px;
 	height: 640px;
-	margin: 70px;
+	margin: 20px;
 }
 
 iframe#video {
 	border: 5px solid rgba(77, 22, 124, 0.6);
 	box-shadow: 1px 1px 1px 1px black;
-	margin: 70px;
+	margin: 20px;
 }
 img#foto {
 	border: 5px solid rgba(77, 22, 124, 0.6);
 	box-shadow: 1px 1px 1px 1px black;
-	margin: 70px;
+	margin: 20px;
 }
 
 img#coc {
 	border: 5px solid rgba(77, 22, 124, 0.6);
 	box-shadow: 1px 1px 1px 1px black;
-	margin: 2px;
+	margin: 1px;
 }
 img#marie {
 	border: 5px solid rgba(77, 22, 124, 0.6);
 	box-shadow: 1px 1px 1px 1px black;
-	margin: 2px;	
+	margin: 1px;	
 }
 img#perfil {
 	border: 5px solid rgba(77, 22, 124, 0.6);
 	box-shadow: 1px 1px 1px 1px black;
-	margin: 2px;
+	margin: 1px;
 }
 
 iframe#carta {
